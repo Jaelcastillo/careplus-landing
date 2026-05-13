@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Poetry
+.venv/
+
+# Reflex
+.web/
+.reflex/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
